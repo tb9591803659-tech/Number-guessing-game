@@ -65,16 +65,24 @@ python --version
 ```
 
 ### 2. Clone the repository
+```bash
 git clone [https://github.com/YOUR_USERNAME/number-guessing-game.git](https://github.com/YOUR_USERNAME/number-guessing-game.git)
+```
 
 ### 3. Navigate to the project directory
+```bash
 cd number-guessing-game
+```
 
 ### 4. Install external dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 5. Launch the game
+```bash
 python main.py
+```
 
 ## 🔮 Future Improvements
 
