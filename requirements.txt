@@ -1,0 +1,7 @@
+# Core game dependencies
+colorama>=0.4.6
+
+# Optional / Development dependencies
+pytest>=7.4.0       # For writing unit tests
+flake8>=6.1.0       # For code linting
+black>=23.7.0       # For automated code formatting
